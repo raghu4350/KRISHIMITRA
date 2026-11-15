@@ -1,0 +1,12 @@
+[server]
+maxUploadSize = 200
+enableCORS = false
+enableXsrfProtection = true
+
+[theme]
+base = "dark"
+primaryColor = "#4CAF50"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#1E1E1E"
+textColor = "#FFFFFF"
+

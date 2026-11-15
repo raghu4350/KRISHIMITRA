@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pyvenv.cfg
+
+# Streamlit secrets (never push to GitHub)
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+
+# Temp files
+temp_speech.mp3
+*.pyc
+
+# VS Code
+.vscode/
+
+# Git internals (not needed in app folder)
+config
+HEAD
+index
+description
+exclude
